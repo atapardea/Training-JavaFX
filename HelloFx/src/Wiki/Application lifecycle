@@ -1,0 +1,9 @@
+Application.Launch() <------- din MAIN
+
+Application.init()
+
+Application.start()   <---- necesar Override
+
+Stage.show()
+
+Application.stop()
